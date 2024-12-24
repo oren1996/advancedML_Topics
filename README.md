@@ -31,11 +31,6 @@ The objective is to forecast which products a client will add or remove in the f
 - Utilized metrics such as **confusion matrix** and **classification report** to evaluate model performance for each output.
 - Employed efficient computation with multi-threading support using `n_jobs=-1` to handle the complexity of multi-output predictions.
 
-### **5. Advanced Analytics**
-- Conducted time-series analysis to forecast product ownership trends.
-- Used SHAP (SHapley Additive exPlanations) for model interpretability, identifying the most influential features in predictions.
-- Performed scenario analysis to explore how changes in client demographics impact product recommendations.
-
 ## **Skills Demonstrated**
 - Data Cleaning and Preprocessing
 - Feature Engineering and Selection
